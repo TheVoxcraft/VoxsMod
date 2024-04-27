@@ -1,0 +1,3 @@
+displayName = (BetterDPS) Vox's Mod
+author = TheVox
+version = 0.1

@@ -1,0 +1,38 @@
+# This file will automatically update with entries for new content after a build and reload
+
+Items: {
+	AdvancedDPSMeterAccessory: {
+		Tooltip: Displays your damage per second over some time period.
+		DisplayName: Advanced DPS Meter
+	}
+}
+
+Configs: {
+	ModConfigSettings: {
+		FastOpenReEnableTimeoutInSeconds: {
+			Tooltip: Sets the idle period in seconds before DPS Fast-Open recalculates DPS based on the first new shot. Use this to determine how quickly DPS reset occurs after inactivity.
+			Label: Fast-Open Re-Enable Timeout (seconds)
+		}
+
+		EnableFastOpen: {
+			Tooltip: Toggle the Fast-Open feature which instantly recalculates DPS on the first shot after a period of inactivity, providing a rapid approximation of DPS.
+			Label: Enable Fast-Open
+		}
+
+		EWASmoothing: {
+			Tooltip: Controls the weighting factor for the Exponential Weighted Average, affecting the responsiveness to changes in DPS. Higher values make it more sensitive to recent damage.
+			Label: EWA Smoothing
+		}
+
+		EWAWindowInSeconds: {
+			Tooltip: Defines the time window in seconds over which DPS is averaged. The Exponential Weighted Average uses this to smooth DPS fluctuations.
+			Label: EWA Window In Seconds
+		}
+
+		DisplayName: Vox's Mod Config
+	}
+
+	DPSMeter: DPS Meter Config
+}
+
+InfoDisplays.AdvancedDPSMeterInfoDisplay.DisplayName: Averaged damage per second
