@@ -1,3 +1,4 @@
 displayName = (BetterDPS) Vox's Mod
 author = TheVox
-version = 0.1
+version = 0.1.1
+homepage = https://forums.terraria.org/index.php?threads/1-4-4-betterdps-terraria-mod.135175/
