@@ -1,4 +1,5 @@
-]Steam Workshop page](https://steamcommunity.com/sharedfiles/filedetails/?id=3233068526)
+[Steam Workshop page](https://steamcommunity.com/sharedfiles/filedetails/?id=3233068526)
+[Mod homepage]([https://steamcommunity.com/sharedfiles/filedetails/?id=3233068526](https://forums.terraria.org/index.php?threads/1-4-4-betterdps-terraria-mod.135175/))
 
 I have always been annoyed that the vanilla DPS meter does not work well for slow weapons, or to measure your maximum average DPS during a fight, so:
 
